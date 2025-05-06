@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://amine-lak.vercel.app/sitemap.xml
